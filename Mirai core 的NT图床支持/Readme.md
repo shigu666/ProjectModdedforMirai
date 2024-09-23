@@ -1,3 +1,7 @@
+# mirai仓库已经合并此更改
+
+
+
 # 使mirai支持新NT图床方法
 
 ## 1.将`mirai-core-all-2.17.0-all.jar`和`mirai-core-all-2.17.0-all.jar.sha1`放入`libs`文件夹
